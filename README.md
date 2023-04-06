@@ -8,4 +8,7 @@ Assessment 2 is about:
 * id
 * key
 
+Assessment 3 is about:
+* others
+
 ## By Lillian Toh
