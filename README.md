@@ -1,4 +1,4 @@
-# Technical Assessment 1 - 3
+# Technical Assessment 1 and 2
 ***
 Assessment 1 is about:
 * tags
@@ -6,8 +6,6 @@ Assessment 1 is about:
 
 Assessment 2 is about:
 * id
-
-Assessment 3 is about:
 * keys
 
 ## By Lillian Toh
